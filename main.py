@@ -12,6 +12,7 @@ def index():
       <body>
         <h1>MAESTRO browser verification test</h1>
         <p>If you can see this rendered, the verify phase works.</p>
+        <p>MAESTRO is a browser verification framework that tests application functionality across different web environments to ensure compatibility and correct behavior.</p>
       </body>
     </html>
     """
